@@ -20,6 +20,9 @@ A simple and responsive weather app that fetches real-time weather data using th
 - JavaScript (Vanilla)
 - OpenWeatherMap API
 
+
+ ![alt text](image.png)
+
 ##  Setup Instructions
 
 1. **Clone the repository**
@@ -27,4 +30,4 @@ A simple and responsive weather app that fetches real-time weather data using th
  https://github.com/amit-mndal/Climatrack-weather-.git
 
 
- ![alt text](image.png)
+
