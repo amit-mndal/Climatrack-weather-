@@ -2,7 +2,7 @@
 
 A simple and responsive weather app that fetches real-time weather data using the OpenWeatherMap API.
 
-## 🚀 Features
+## Features
 
 - Search weather by city name
 - Displays:
@@ -13,15 +13,18 @@ A simple and responsive weather app that fetches real-time weather data using th
 - Real-time data from OpenWeatherMap API
 - Clean and responsive design
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
 - OpenWeatherMap API
 
-## 📦 Setup Instructions
+##  Setup Instructions
 
 1. **Clone the repository**
 ```bash
  https://github.com/amit-mndal/Climatrack-weather-.git
+
+
+ ![alt text](image.png)
