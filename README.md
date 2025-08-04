@@ -17,7 +17,7 @@ A simple and responsive weather app that fetches real-time weather data using th
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript 
 - OpenWeatherMap API
 
 
